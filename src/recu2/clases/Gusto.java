@@ -1,0 +1,5 @@
+package recu2.clases;
+
+public enum Gusto {
+	MUZZARELLA, FUGAZZETA, NAPOLITANA, JAMON_Y_MORRONES, PROVOLONE, VERDURA
+}
